@@ -1,3 +1,3 @@
-# about this repo
+# About this repository
 
-this is just a basic repository to practice git commands.
+This is just a basic repository to practice git commands.
